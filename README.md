@@ -2,7 +2,7 @@
 
 Cette calculatrice sous la forme de script n'est pas encore entièrement fonctionnelle.
 
-Elle ne sait pour l'instant faire que les quatres opération de base;
+Elle ne sait pour l'instant faire que les quatres opérations de base;
 
 Addition
 Soustraction
